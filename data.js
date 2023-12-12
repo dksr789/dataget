@@ -1,5 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
-  <script>
+
     document.addEventListener('DOMContentLoaded', function () {
       const beverageSelect = document.getElementById('drinkName');
       const temperatureRadios = document.querySelectorAll('input[name="temperature"]');
@@ -95,4 +94,3 @@
         </ul>
       `;
     }
-  </script>
